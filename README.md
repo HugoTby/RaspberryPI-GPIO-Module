@@ -31,6 +31,12 @@ Références
 Pour en savoir plus sur l'utilisation des broches GPIO de Raspberry Pi, vous pouvez consulter la documentation officielle de Raspberry Pi : https://www.raspberrypi.org/documentation/usage/gpio/
 
 
+## Screenshots
+
+![App Screenshot](https://media.discordapp.net/attachments/733366929561092157/1078089236978352188/image.png?width=1374&height=910)
+![App Screenshot](https://media.discordapp.net/attachments/733366929561092157/1078089237318078504/image.png?width=1374&height=910)
+
+
 
 ## Author
 
