@@ -33,7 +33,7 @@ Pour en savoir plus sur l'utilisation des broches GPIO de Raspberry Pi, vous pou
 
 ## Screenshots
 
-![App Screenshot](https://media.discordapp.net/attachments/733366929561092157/1078670300427849829/image.png?width=1384&height=910)
+![App Screenshot](https://media.discordapp.net/attachments/733366929561092157/1078754544072278086/concept2.png)
 ![App Screenshot](https://media.discordapp.net/attachments/733366929561092157/1078670237077090354/image.png?width=1835&height=910)
 
 
